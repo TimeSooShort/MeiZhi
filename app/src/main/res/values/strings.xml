@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MeiZhi</string>
+    <string name="no_network">天塌啦！地陷啦！没网。。。</string>
+    <string name="loading">加载中....</string>
+    <string name="no_more">没有更多了</string>
+    <string name="error">出错了</string>
+    <string name="share">分享</string>
+    <string name="store">保存</string>
+    <string name="success">拷贝成功啦</string>
+    <string name="description">一个垂直方向的DrawerLayout,抽屉从上向下展开</string>
+    <string name="android">Android</string>
+    <string name="who">miao</string>
+    <string name="time">2016-9-11</string>
+    <string name="about_me">关于我</string>
+    <string name="about_APP">关于APP</string>
+    <string name="my_share">分享一个很赞的妹纸App，赶紧去和妹子愉快的玩耍吧..</string>
+    <string name="introduce">    妹纸App是gank.io的第三方客户端。
+        \ngank.io是一个致力于为广大开发者分享最新，最潮和实用干货的一个社区。
+        另外，每天一张妹子图，极大的缓解开发者的疲惫，顿时满血复活。哈哈哈哈哈哈哈。。。。
+        \n    这是练手的第三个App，主要学习Rxjava + Retrofit,还有各种酷炫省事的开源库的使用。
+    </string>
+    <string name="address">地址：\nhttps://github.com/miaoquanwei/MeiZhi</string>
+    <string name="resource">使用到的开源库：\nRetrofit\nGlide\nRxJava RxAndroid
+        \nEasyRecyclerView\nCircleImageView\nPhotoView\nWang.avi</string>
+    <string name="name">miaoquanwei</string>
+    <string name="my_address">GitHub:  https://github.com/miaoquanwei</string>
+    <string name="programme_address">项目地址: https://github.com/miaoquanwei/MeiZhi</string>
+    <string name="go_to_the_address">去看源码</string>
+</resources>
